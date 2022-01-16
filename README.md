@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C, Python**
 
-- 📫 How to reach me **fgrijalba@gmail.com**
+- 📫 How to reach me **fjgrijalba@gmail.com**
 
 - ⚡ Fun fact **I am Funny and I am fun and very collaborative**
 
